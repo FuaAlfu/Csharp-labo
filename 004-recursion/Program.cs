@@ -6,7 +6,17 @@ namespace _004_recursion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           int factorial = 0;
+           factorial = Factorial(5);
+           Console.WriteLine(factorial);
+        }
+
+        private static int Factorial(int f)
+        {
+            //Exit condition..
+           if(f == 1)
+           return 1;
+           return f *  Factorial(f - 1);
         }
     }
 }
