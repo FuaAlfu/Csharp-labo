@@ -1,0 +1,16 @@
+D:\fua\myCode\C#\planing\projects\005-arrang\bin\Debug\net5.0\005-arrang.exe
+D:\fua\myCode\C#\planing\projects\005-arrang\bin\Debug\net5.0\005-arrang.deps.json
+D:\fua\myCode\C#\planing\projects\005-arrang\bin\Debug\net5.0\005-arrang.runtimeconfig.json
+D:\fua\myCode\C#\planing\projects\005-arrang\bin\Debug\net5.0\005-arrang.runtimeconfig.dev.json
+D:\fua\myCode\C#\planing\projects\005-arrang\bin\Debug\net5.0\005-arrang.dll
+D:\fua\myCode\C#\planing\projects\005-arrang\bin\Debug\net5.0\ref\005-arrang.dll
+D:\fua\myCode\C#\planing\projects\005-arrang\bin\Debug\net5.0\005-arrang.pdb
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.csproj.AssemblyReference.cache
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.GeneratedMSBuildEditorConfig.editorconfig
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.AssemblyInfoInputs.cache
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.AssemblyInfo.cs
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.csproj.CoreCompileInputs.cache
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.dll
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\ref\005-arrang.dll
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.pdb
+D:\fua\myCode\C#\planing\projects\005-arrang\obj\Debug\net5.0\005-arrang.genruntimeconfig.cache
